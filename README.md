@@ -8,5 +8,5 @@
 
 - My name is Carbon
 - I use Python, Rust and recently JavaScript (mostly Electron apps)
-- My main OS is Windows 11, however I also use WSL Debian
+- My main OS is Windows 11, however I also use WSL Ubuntu
   
